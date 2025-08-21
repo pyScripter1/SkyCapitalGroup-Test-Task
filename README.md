@@ -15,6 +15,7 @@ CRUD API для управления задачами, построенный н
 - Tests: pytest
 
 ## Структура 
+```
 task_manager/
 ├── app/
 │   ├── main.py
@@ -31,6 +32,7 @@ task_manager/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
+```
 
 ## Запуск
 
@@ -64,8 +66,9 @@ pytest tests/ -v --cov=app
 - GET /api/v1/stats/ - статистика задач
 
 ## Документация
-- Swagger UI: "http://localhost:8000/api/v1/docs"[Клик]
-- ReDoc: "http://localhost:8000/api/v1/redoc"[Клик]
+- Swagger UI: [Клик](http://localhost:8000/api/v1/docs)
+- ReDoc: [Клик](http://localhost:8000/api/v1/redoc)
+
 
 
 
