@@ -66,8 +66,9 @@ pytest tests/ -v --cov=app
 - GET /api/v1/stats/ - статистика задач
 
 ## Документация
-- Swagger UI: [Клик](http://localhost:8000/api/v1/docs)
-- ReDoc: [Клик](http://localhost:8000/api/v1/redoc)
+- Swagger UI: http://localhost:8000/api/v1/docs
+- ReDoc: http://localhost:8000/api/v1/redoc
+
 
 
 
