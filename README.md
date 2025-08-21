@@ -69,6 +69,11 @@ pytest tests/ -v --cov=app
 - Swagger UI: http://localhost:8000/api/v1/docs
 - ReDoc: http://localhost:8000/api/v1/redoc
 
+## Результат
+<img width="640" height="420" alt="image" src="https://github.com/user-attachments/assets/eea67314-4c87-4f5c-b4f4-2e147ae0fb42" />
+
+
+
 
 
 
